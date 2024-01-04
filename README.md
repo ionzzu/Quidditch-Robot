@@ -6,7 +6,9 @@ Building and coding a robot to track and retrieve balls in a game of "quidditch"
 
 ## Authors
 
+- Carter Barnett
 - [Jonathan Cochran](https://github.com/ionzzu)
+- Bryson Jaipean
 - Cameron Retzlaff
 
 ## Background
