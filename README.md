@@ -41,7 +41,7 @@ Building and coding a robot to track and retrieve balls in a game of "quidditch"
 
 #### Tracking Diagram
 
-<img src="docs/ref/balltrack.png" alt="balltrack" width="600"/>
+<img src="docs/ref/balltrack.jpg" alt="balltrack" width="600"/>
 
 ### Retrieval
 
@@ -53,7 +53,7 @@ Building and coding a robot to track and retrieve balls in a game of "quidditch"
 
 #### Retrieval Diagram
 
-<img src="docs/ref/ballretrieve.png" alt="ballretrieve" width="600"/>
+<img src="docs/ref/ballretrieve.jpg" alt="ballretrieve" width="600"/>
 
 ## PID Control
 
@@ -104,4 +104,4 @@ Building and coding a robot to track and retrieve balls in a game of "quidditch"
 
 #### 3ft x 3ft Playing Field
 
-<img src="docs/ref/playing_field.png" alt="playing_field" width="600"/>
+<img src="docs/ref/playing_field.jpg" alt="playing_field" width="600"/>
